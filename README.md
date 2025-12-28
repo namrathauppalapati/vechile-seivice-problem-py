@@ -20,7 +20,7 @@ This project is designed to help beginners understand how OOP principles can be 
 ---
 
 ## 🛠️ Technologies Used
-- **Programming Languages:** Python / Java  
+- **Programming Languages:** Python 
 - **Concepts:** OOP (Inheritance, Polymorphism, Method Overriding)  
 - **Interface:** Console-based  
 
